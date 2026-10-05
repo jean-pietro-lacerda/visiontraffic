@@ -31,3 +31,5 @@ runs/
 .idea/
 .DS_Store
 Thumbs.db
+!assets/*.jpg
+!assets/*.png
